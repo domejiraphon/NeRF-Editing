@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/geogram/CMakeFiles/geogram-download"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/geogram/CMakeFiles/geogram-download.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/geogram/CMakeFiles/geogram-download-complete.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/geogram/geogram-download-prefix/src/geogram-download-stamp/geogram-download-build.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/geogram/geogram-download-prefix/src/geogram-download-stamp/geogram-download-configure.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/geogram/geogram-download-prefix/src/geogram-download-stamp/geogram-download-download.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/geogram/geogram-download-prefix/src/geogram-download-stamp/geogram-download-install.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/geogram/geogram-download-prefix/src/geogram-download-stamp/geogram-download-mkdir.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/geogram/geogram-download-prefix/src/geogram-download-stamp/geogram-download-patch.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/geogram/geogram-download-prefix/src/geogram-download-stamp/geogram-download-test.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/geogram/geogram-download-prefix/src/geogram-download-stamp/geogram-download-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"geogram-download"
+		],
+		"name" : "geogram-download"
+	}
+}

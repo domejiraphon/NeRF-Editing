@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/spdlog/CMakeFiles/spdlog-download"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/spdlog/CMakeFiles/spdlog-download.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/spdlog/CMakeFiles/spdlog-download-complete.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/spdlog/spdlog-download-prefix/src/spdlog-download-stamp/spdlog-download-build.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/spdlog/spdlog-download-prefix/src/spdlog-download-stamp/spdlog-download-configure.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/spdlog/spdlog-download-prefix/src/spdlog-download-stamp/spdlog-download-download.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/spdlog/spdlog-download-prefix/src/spdlog-download-stamp/spdlog-download-install.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/spdlog/spdlog-download-prefix/src/spdlog-download-stamp/spdlog-download-mkdir.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/spdlog/spdlog-download-prefix/src/spdlog-download-stamp/spdlog-download-patch.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/spdlog/spdlog-download-prefix/src/spdlog-download-stamp/spdlog-download-test.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/spdlog/spdlog-download-prefix/src/spdlog-download-stamp/spdlog-download-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"spdlog-download"
+		],
+		"name" : "spdlog-download"
+	}
+}

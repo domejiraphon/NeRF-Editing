@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/libigl/CMakeFiles/libigl-download"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/libigl/CMakeFiles/libigl-download.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/libigl/CMakeFiles/libigl-download-complete.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-build.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-configure.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-download.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-install.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-mkdir.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-patch.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-test.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libigl-download"
+		],
+		"name" : "libigl-download"
+	}
+}

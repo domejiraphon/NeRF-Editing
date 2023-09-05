@@ -1,0 +1,7 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The patch step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+command (connected)=/home/jy3694/venv/venv_pt/lib/python3.10/site-packages/cmake/data/bin/cmake;-Dcan_fetch=YES;-P;/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/geogram/geogram-download-prefix/tmp/geogram-download-gitupdate.cmake
+command (disconnected)=/home/jy3694/venv/venv_pt/lib/python3.10/site-packages/cmake/data/bin/cmake;-Dcan_fetch=NO;-P;/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/geogram/geogram-download-prefix/tmp/geogram-download-gitupdate.cmake
+work_dir=/home/jy3694/work/new/NeRF-Editing/TetWild/extern/geogram

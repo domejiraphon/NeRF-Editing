@@ -1,0 +1,14 @@
+# Target labels
+ spdlog-download
+# Source files and their labels
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/spdlog/CMakeFiles/spdlog-download
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/spdlog/CMakeFiles/spdlog-download.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/spdlog/CMakeFiles/spdlog-download-complete.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/spdlog/spdlog-download-prefix/src/spdlog-download-stamp/spdlog-download-build.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/spdlog/spdlog-download-prefix/src/spdlog-download-stamp/spdlog-download-configure.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/spdlog/spdlog-download-prefix/src/spdlog-download-stamp/spdlog-download-download.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/spdlog/spdlog-download-prefix/src/spdlog-download-stamp/spdlog-download-install.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/spdlog/spdlog-download-prefix/src/spdlog-download-stamp/spdlog-download-mkdir.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/spdlog/spdlog-download-prefix/src/spdlog-download-stamp/spdlog-download-patch.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/spdlog/spdlog-download-prefix/src/spdlog-download-stamp/spdlog-download-test.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/spdlog/spdlog-download-prefix/src/spdlog-download-stamp/spdlog-download-update.rule

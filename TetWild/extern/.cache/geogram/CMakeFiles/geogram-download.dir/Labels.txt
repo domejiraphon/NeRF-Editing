@@ -1,0 +1,14 @@
+# Target labels
+ geogram-download
+# Source files and their labels
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/geogram/CMakeFiles/geogram-download
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/geogram/CMakeFiles/geogram-download.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/geogram/CMakeFiles/geogram-download-complete.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/geogram/geogram-download-prefix/src/geogram-download-stamp/geogram-download-build.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/geogram/geogram-download-prefix/src/geogram-download-stamp/geogram-download-configure.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/geogram/geogram-download-prefix/src/geogram-download-stamp/geogram-download-download.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/geogram/geogram-download-prefix/src/geogram-download-stamp/geogram-download-install.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/geogram/geogram-download-prefix/src/geogram-download-stamp/geogram-download-mkdir.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/geogram/geogram-download-prefix/src/geogram-download-stamp/geogram-download-patch.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/geogram/geogram-download-prefix/src/geogram-download-stamp/geogram-download-test.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/geogram/geogram-download-prefix/src/geogram-download-stamp/geogram-download-update.rule

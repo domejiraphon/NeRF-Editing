@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+7100cabb830d8b2ca7e7f68d2b1bc1b9 CMakeFiles/spdlog-download
+c68d3055a42e51ac3e413f493aee3ed7 CMakeFiles/spdlog-download-complete
+231ac3cf29febb01f5b5c6b51fed6d5c spdlog-download-prefix/src/spdlog-download-stamp/spdlog-download-build
+48372cd59828511f37ce7d8b76de2f68 spdlog-download-prefix/src/spdlog-download-stamp/spdlog-download-configure
+8ee0bdf30daeb91fcc9ffe71a0b3dacb spdlog-download-prefix/src/spdlog-download-stamp/spdlog-download-download
+bc71b7250eeb0cbfbb244bd18985ee8d spdlog-download-prefix/src/spdlog-download-stamp/spdlog-download-install
+461ccdf4345cfe9be98a3b1240640683 spdlog-download-prefix/src/spdlog-download-stamp/spdlog-download-mkdir
+d8fc43d3da0915493380e9afa7b2b7f1 spdlog-download-prefix/src/spdlog-download-stamp/spdlog-download-patch
+b52bf5e4daf5e693c7203cda484d24d2 spdlog-download-prefix/src/spdlog-download-stamp/spdlog-download-test
+4d87d8880d98573e748796e6c9d03ae6 spdlog-download-prefix/src/spdlog-download-stamp/spdlog-download-update

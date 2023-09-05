@@ -1,0 +1,14 @@
+# Target labels
+ libigl-download
+# Source files and their labels
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/libigl/CMakeFiles/libigl-download
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/libigl/CMakeFiles/libigl-download.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/libigl/CMakeFiles/libigl-download-complete.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-build.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-configure.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-download.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-install.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-mkdir.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-patch.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-test.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/libigl/libigl-download-prefix/src/libigl-download-stamp/libigl-download-update.rule

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/simple_mesh.dir/simple_mesh/simple_mesh.cpp.o -o simple_mesh  /home/jy3694/work/new/NeRF-Editing/OpenVolumeMesh/OpenVolumeMesh/build/Build/lib/libOpenVolumeMesh.a 

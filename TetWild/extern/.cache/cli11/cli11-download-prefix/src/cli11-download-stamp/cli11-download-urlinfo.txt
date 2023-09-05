@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/home/jy3694/venv/venv_pt/lib/python3.10/site-packages/cmake/data/bin/cmake;-P;/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/cli11/cli11-download-prefix/src/cli11-download-stamp/download-cli11-download.cmake;COMMAND;/home/jy3694/venv/venv_pt/lib/python3.10/site-packages/cmake/data/bin/cmake;-P;/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/cli11/cli11-download-prefix/src/cli11-download-stamp/verify-cli11-download.cmake;COMMAND;/home/jy3694/venv/venv_pt/lib/python3.10/site-packages/cmake/data/bin/cmake;-P;/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/cli11/cli11-download-prefix/src/cli11-download-stamp/extract-cli11-download.cmake
+source_dir=/home/jy3694/work/new/NeRF-Editing/TetWild/extern/cli11
+work_dir=/home/jy3694/work/new/NeRF-Editing/TetWild/extern
+url(s)=https://github.com/CLIUtils/CLI11/archive/v1.6.1.tar.gz
+hash=MD5=48ef97262adb0b47a2f0a7edbda6e2aa
+no_extract=
+

@@ -1,0 +1,14 @@
+# Target labels
+ fmt-download
+# Source files and their labels
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/fmt/CMakeFiles/fmt-download
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/fmt/CMakeFiles/fmt-download.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/fmt/CMakeFiles/fmt-download-complete.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/fmt/fmt-download-prefix/src/fmt-download-stamp/fmt-download-build.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/fmt/fmt-download-prefix/src/fmt-download-stamp/fmt-download-configure.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/fmt/fmt-download-prefix/src/fmt-download-stamp/fmt-download-download.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/fmt/fmt-download-prefix/src/fmt-download-stamp/fmt-download-install.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/fmt/fmt-download-prefix/src/fmt-download-stamp/fmt-download-mkdir.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/fmt/fmt-download-prefix/src/fmt-download-stamp/fmt-download-patch.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/fmt/fmt-download-prefix/src/fmt-download-stamp/fmt-download-test.rule
+/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/fmt/fmt-download-prefix/src/fmt-download-stamp/fmt-download-update.rule

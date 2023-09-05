@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/fmt/CMakeFiles/fmt-download"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/fmt/CMakeFiles/fmt-download.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/fmt/CMakeFiles/fmt-download-complete.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/fmt/fmt-download-prefix/src/fmt-download-stamp/fmt-download-build.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/fmt/fmt-download-prefix/src/fmt-download-stamp/fmt-download-configure.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/fmt/fmt-download-prefix/src/fmt-download-stamp/fmt-download-download.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/fmt/fmt-download-prefix/src/fmt-download-stamp/fmt-download-install.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/fmt/fmt-download-prefix/src/fmt-download-stamp/fmt-download-mkdir.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/fmt/fmt-download-prefix/src/fmt-download-stamp/fmt-download-patch.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/fmt/fmt-download-prefix/src/fmt-download-stamp/fmt-download-test.rule"
+		},
+		{
+			"file" : "/home/jy3694/work/new/NeRF-Editing/TetWild/extern/.cache/fmt/fmt-download-prefix/src/fmt-download-stamp/fmt-download-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"fmt-download"
+		],
+		"name" : "fmt-download"
+	}
+}
